@@ -56,4 +56,4 @@ Clone repositori ini:
  - Aplikasi ini dirancang untuk berjalan di browser tanpa memerlukan server backend.
 
 ## Screenshot
-<img width="1536" alt="Screenshot 2024-12-16 at 20 44 14" src="https://github.com/user-attachments/assets/700aec50-aa22-42a2-bb3f-5b34a3a7f87b" />
+<img width="1536" alt="Screenshot 2024-12-19 at 03 25 38" src="https://github.com/user-attachments/assets/64e8970f-39e2-4cbc-9e35-10b07ab52981" />
