@@ -1,5 +1,5 @@
 # Pomodoro 
-cek
+
 Pomodoro  adalah aplikasi berbasis web sederhana untuk meningkatkan produktivitas dengan teknik Pomodoro. Aplikasi ini dilengkapi dengan fitur timer Pomodoro, daftar tugas (To-Do List), dan widget Spotify untuk mendengarkan musik saat bekerja.
 
 ## Fitur
